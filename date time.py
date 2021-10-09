@@ -9,3 +9,4 @@ somoy = datetime.datetime.today()
 print(somoy)
 
 # module name > class name > function name
+# in case there is a package
