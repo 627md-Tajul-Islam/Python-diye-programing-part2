@@ -1,1 +1,2 @@
 import builtins
+dir(builtins)
