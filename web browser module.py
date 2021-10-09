@@ -1,2 +1,3 @@
 import webbrowser
 url = "https://www.google.com/"
+a = webbrowser.open(url)
