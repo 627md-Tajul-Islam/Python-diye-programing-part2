@@ -7,3 +7,4 @@ pow = math.pow(2,3)
 print(pow)
 
 squareRoot = math.sqrt(25)
+print(squareRoot)
