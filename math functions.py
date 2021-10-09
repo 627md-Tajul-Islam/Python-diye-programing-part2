@@ -11,3 +11,6 @@ print(squareRoot)
 
 floor = math.floor(5.2)
 print(floor)
+
+ceiling = math.ceil(5.2)
+print(ceiling)
