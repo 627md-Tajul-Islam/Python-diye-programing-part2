@@ -7,3 +7,5 @@ print(ajke)
 # date and time
 somoy = datetime.datetime.today()
 print(somoy)
+
+# module name > class name > function name
