@@ -7,3 +7,7 @@ def find_fib(n):
     while  i <= n:
         i = i + 1
         fib_x, fib_next = fib_next, fib_x + fib_next
+        return fib_next
+    
+    for x in range(1,11):
+        print(find_fib(x))
