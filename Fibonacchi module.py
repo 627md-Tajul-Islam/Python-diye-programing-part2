@@ -6,4 +6,4 @@ def find_fib(n):
     i = 3
     while  i <= n:
         i = i + 1
-        fib_x, fib_next =
+        fib_x, fib_next = fib_next, fib_x + fib_next
