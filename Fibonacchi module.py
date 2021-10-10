@@ -9,5 +9,5 @@ def find_fibo(n):
         fibo_x, fibo_next = fibo_next , fibo_x + fibo_next
         return fibo_next
     
-for x in range(1,100):
+for x in range(1,10):
     print(find_fibo(x))
