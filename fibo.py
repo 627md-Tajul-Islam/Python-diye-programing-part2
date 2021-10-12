@@ -9,3 +9,8 @@ def find_fibo(n):
         fibo_x, fibo_next = fibo_next, fibo_x + fibo_next
 
         return fibo_next
+
+def list_fibo(n):
+    fibo_list = [1,1]
+    if n <= 2:
+        return fibo_list[:n]
