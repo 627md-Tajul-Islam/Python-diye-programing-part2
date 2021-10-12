@@ -14,3 +14,5 @@ def list_fibo(n):
     fibo_list = [1,1]
     if n <= 2:
         return fibo_list[:n]
+
+    fibo_x, fibo_next = fibo_next, fibo_x + fibo_next
