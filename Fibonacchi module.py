@@ -4,3 +4,5 @@ def find_fibo(n):
     fibo_x, fibo_next = 1,1
 
     i = 3
+    while i <= n:
+        i = i + 1
