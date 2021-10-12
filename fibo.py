@@ -16,4 +16,3 @@ def list_fibo(n):
         return fibo_list[:n]
 
     fibo_x, fibo_next = fibo_next, fibo_x + fibo_next
-    fibo_list.append(fibo_next)
