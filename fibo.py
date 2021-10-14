@@ -19,3 +19,6 @@ def list_fibo(n):
     fibo_list.append(fibo_next)
 
     return fibo_list
+
+for x in range(1,11):
+    print(find_fibo(x))
